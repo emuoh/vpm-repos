@@ -2,6 +2,7 @@
 
 
 
+
 # emuoh VPM Repository
 ここは emuoh(えむお～) の VRChat 用ギミック・ツールなどを配布する VPM (VRChat Package Manager) リポジトリです。  
 
@@ -18,13 +19,13 @@ You will also be notified when the latest version is released, making it easy to
 ## 📦 パッケージ一覧  
 ## 📦 Package List
 
-このリポジトリでは以下のパッケージを配布しています：  
+このリポジトリでは以下のパッケージを配布準備中です：  
 
-This repository distributes the following packages:
+This repository is preparing to distribute the following packages:
 
-- [携帯型火災報知器](https://github.com/emuoh/PortablFireAlarmSystem) : VRChat アバター向けの首掛け型の火災報知器ギミックです。
+- [携帯型火災報知器]: VRChat アバター向けの首掛け型の火災報知器ギミックです。
 
-  [Portable Fire Alarm System](https://github.com/emuoh/PortablFireAlarmSystem): A lightweight neck-worn fire alarm system for VRChat Avatars.
+  [Portable Fire Alarm System]: A lightweight neck-worn fire alarm system for VRChat Avatars.
 
 - その他随時追加予定...  
 
@@ -141,4 +142,3 @@ If a license is specified individually within a package, the license within that
 
 - Unity 2022.3.22f1 + VRCSDK3 環境を基本としています。  
   The base environment is Unity 2022.3.22f1 + VRCSDK3.
-
